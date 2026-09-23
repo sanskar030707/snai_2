@@ -1,0 +1,3 @@
+LAB 6 LOGBOOK - SANSKAR KESHARWANI - E26B07F0594
+SETUP: my working directory is /Users/sanskarkesharwani/nst/labs/lab06-os-and-filesystem
+T1 prediction: I think ls / will show about 15-16 items

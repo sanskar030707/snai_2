@@ -1,0 +1,7 @@
+LAB 7 LOGBOOK - Sanskar  - E26B07F0594
+SETUP: clang version 21.0.0  python3 version 3.9.6
+T1: running hello.py created nothing , no new files
+T1 prediction: ./hello.c will ??? and python3 hello.c will ???
+T1: ./hello.c failed because it is an uncompiled source file, not an executable binary ; python3 hello.c failed because it contains C code, which is invalid syntax for the Python interpreter
+T1: when I run python3 hello.py the CPU executes the Python interpreter ; hello.py is just a text file containing source code
+T1: hello.c is 33432 bytes and hello is 70 bytes. my guess for why: first one is a binary machine code and the other is source code just few line of plain text.
